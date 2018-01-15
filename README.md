@@ -1,2 +1,2 @@
 # hello_world
-FUN stuff
+I enjoy JS, GitHub and HTML! :)
